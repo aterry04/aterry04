@@ -20,7 +20,7 @@
 
 ### 
 
-<p align="left">• 📖 I love learning, developing new skills, and solving problems through technology.<br>• 💻 Right now, I’m exploring areas like networking, programming, and web development — all rooted in a strong interest in IT.<br>• 📡 Always curious, always leveling up my skills — one project at a time.</p>
+<p align="left">• 📖 I love learning, developing new skills, and solving problems through technology.<br>• 💻 Right now, I’m exploring areas like networking, programming, and web development - all rooted in a strong interest in IT.<br>• 📡 Always curious, always leveling up my skills - one project at a time.</p>
 
 ### 
 
