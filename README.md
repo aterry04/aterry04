@@ -1,10 +1,6 @@
 <table align="right">
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/v2/C4E1BAQGdP6_9BbSr6Q/company-background_10000/company-background_10000/0/1585345953342/datec_inc_cover?e=1755241200&v=beta&t=8tMXjDlrLx-chIO8lVQqHRpAVE11cQUBhrgW-qLZQCc" height="150" alt="custom image" />
-    </td>
-    <td width="40"></td> <!-- spacer -->
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aterry04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
     </td>
   </tr>
