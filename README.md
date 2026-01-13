@@ -1,4 +1,4 @@
-[![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=aterry04)](https://github.com/aterry04/github-readme-stats)
+[![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=aterry04)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aterry04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" align="right" />
 
 
